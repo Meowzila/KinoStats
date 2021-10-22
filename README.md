@@ -1,5 +1,5 @@
 # KinoStats Description
-A mini project to strengthen my experience with SQL and Data Visualization. 
+A mini project to strengthen my skills with SQL and Data Visualization. 
 Visualizes data from a PostgreSQL database with 5 million+ rows of scraped and cleaned data.
 
 # Data Visualization Examples
